@@ -1,0 +1,74 @@
+Dev Diary
+
+Planning Phase - Brainstorming
+Endless shooter, with lots of vertical movement
+Obstacle course style map
+No particular end goal
+Enemies are weak
+No health, just fun running around and blasting
+MAGIC WAND (for family friendly reasons)
+Minimap
+
+Planning Phase - Storyboarding
+Pause menu with controls on
+Open on start
+Pause anytime
+Win screen on 1k points
+
+Planning Phase - Controls and UI
+Pause menu with controls
+No health, ammo, anything other than score
+It is for fun, not for stress
+No inventory or collectables
+
+Prototyping Phase - Game Mechanics
+Movement:
+	Jumping done through raytracing
+	Crouching and sprinting as other options
+Shooting:
+	Projectile not hitscan
+
+Feedback:
+	Fun but more speed
+
+	Need more verticality
+
+Alpha Phase - Project Appearance
+I can't model to save my life, so everything will be beans and cubes
+Also use those nice blueprint textures
+Different colours for each big feature
+Big minimap TL
+Score TR
+
+Feedback:
+	Better with larger map but needs more enemies
+
+	Score good but objective very high
+
+Beta Phase - Screens
+Start screen is the pause menu open at start
+No credits screen needed
+No loading screens needed (but I put a seal at the start)
+
+Feedback:
+	Faster sprint speed is more fun
+
+	Make sure enemies despawn
+		- Added killbox and reset mechanic
+
+Beta Phase - Final
+Start screen is done, no credits or loading screens needed
+Pause screen tells everything
+It has sound effects (I hope I can't hear them because there's no speakers)
+I have revised my project based on feedback
+
+
+Release Phase - Playtesting
+Feedback:
+	Need some form of pressure on player
+		- Added timer
+
+	Movement is fun
+
+Going Gold - Info
+I made this to have fun
